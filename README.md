@@ -8,7 +8,7 @@ Learn how to write amazing documents and resumes using \LaTeX (you'll learn what
 
 # Table of Contents
 
-1. [Preface - Installation] (#setup)
+1. [Preface - Installation] (https://github.com/AdilVirani/LaTeX-Guide/blob/master/Installation.md)
 2. [Getting Started: Syntax] (#syntax)
 3. [Compiling all you've learned] (#compile)
 4. [My Way] (#myway)
