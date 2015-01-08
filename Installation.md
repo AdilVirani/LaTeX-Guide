@@ -74,3 +74,23 @@ Note that once you've created a folder, you'll want to change the Terminal's "wo
     cd "~/Documents/LaTeX/"
 
 On a Mac, "~" just means "home directory," which is shorter than typing USER every time. Now you're all set up and ready to get started.
+
+##Windows Installation
+
+[Here!] (http://www.howtotex.com/howto/installing-latex-on-windows/) is a link to how to install it on window. I couldn't explain it any better than him. Please make a pull request if you would like to add more.
+
+##Ubuntu Installation
+
+First you have to install LaTeX. First command should be 
+
+    $ sudo apt-get install texlive
+    
+The above command will install a basic subset of TeX Live's functionality. To install all the packages in the LaTeX distribution, you have to run the following command
+
+    $ sudo apt-get install texlive-full
+    
+Gedit has a plugin for LaTeX which converts Gedit into a LaTeX editor. You can install the Gedit Latex plugin as follows:
+
+    $ sudo apt-get install gedit-latex-plugin
+    
+Once you install the plug-in, you will have to enable the plug-in in Gedit to begin using it. This is achieved by opening Gedit Preferences (GEdit > Edit > Preferences). Then clicking on the Plugins tab and turning on the "Gedit LaTeX plugin". Now whenever you open a TeX file, you will have access to the LaTeX menu in Gedit.
