@@ -19,7 +19,7 @@ Here's an example Résumé:
 4. [My Way] (#myway)
 
 ## <a id"setup"></a>Preface - Installation
-------------------------------------
+
 
 ### MAC Installation
 Before we begin, you'll probably need to install some things on your computer. So let's walk through the following steps: 
