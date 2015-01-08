@@ -18,10 +18,10 @@ Here's an example Résumé:
 3. [Compiling all you've learned] (#compile)
 4. [My Way] (#myway)
 
-## <a id"setup"></a>Preface - Installation
+# <a id"setup"></a>Preface - Installation
 
 
-### MAC Installation
+## MAC Installation
 Before we begin, you'll probably need to install some things on your computer. So let's walk through the following steps: 
 
 1. [Opening Terminal] (#term)
