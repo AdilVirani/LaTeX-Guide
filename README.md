@@ -18,7 +18,7 @@ Here's an example Résumé:
 3. [Compiling all you've learned] (#compile)
 4. [My Way] (#myway)
 
-## <a id"setup"></a>Preface - Setup
+## <a id"setup"></a>Preface - Installation
 ------------------------------------
 
 ### MAC Installation
