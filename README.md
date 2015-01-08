@@ -1,5 +1,5 @@
 # \LaTeX-Guide
-==============
+--------------
 \LaTeX (pronounced Lay-Tech) is a replacement for Microsoft Word. It's used in a plethora of situations and is a powerful typestting application, meaning it creates an attractive manuscript from the code you input.
 
 Once you learn how to use it, \LaTeX can make articles, book chapters, math assignments, and resumes much more appealing and easier to make. It takes time to learn, but pays off in the long run.
@@ -12,14 +12,14 @@ Here's an example Résumé:
 [resume]: https://github.com/AdilVirani/LaTex-Guide/blob/master/resume_picture.png
 
 ## Table of Contents
-====================
+--------------------
 1. [Preface - Installation] (#setup)
 2. [Getting Started: Syntax] (#syntax)
 3. [Compiling all you've learned] (#compile)
 4. [My Way] (#myway)
 
 ## <a id"setup"></a>Preface - Setup
-===================================
+------------------------------------
 
 ### MAC Installation
 Before we begin, you'll probably need to install some things on your computer. So let's walk through the following steps: 
@@ -30,18 +30,22 @@ Before we begin, you'll probably need to install some things on your computer. S
 4. [Creating a home for TeX files] (#folder)
 
 #### <a id="term"></a>Opening Terminal
+--------------------------------------
 
 Click ⌘Space, which will open Spolight, then type in 'Terminal', and it will show up click on it to make it open. Keep it open for now we'll use it later. 
 
 #### <a id="text"></a>Choosing a Text Editor
+---------------------------------------------
 
 As far as text editors go, your choices are essentially infinite. On OS X, you can simply use the native text editor Apple supplies. But, the most obvious choice would be to use [Sublime Text] (http://www.sublimetext.com), but there are many more available, such as [Vim] (http://www.vim.org/).
 
 #### <a id="install"></a>Installing LaTeX
+-------------------------------------------
 
 LaTeX is a pretty easy install. TUG (TeX Users Group) created a download for Mac called ['MacTeX'] (http://mirror.ctan.org/systems/mac/mactex/MacTeX.pkg). Once the download finishes, double click the installer, and follow the instructions. The installer will tell you when you're set.
 
 #### <a id="folder"></a>Creating a home for TeX files
+-------------------------------------------------------
 
 Now this can get a little tricky. LaTeX installs inside the root folder of your hard drive. If you're running Mac OS 10.6 or later, you won't be able to see the install location. You can fix this by going back to the Terminal, and typing the following command:
 
