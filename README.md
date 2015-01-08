@@ -10,7 +10,7 @@ Learn how to write amazing documents and resumes using \LaTeX (you'll learn what
 
 1. [Preface - Installation] (https://github.com/AdilVirani/LaTeX-Guide/blob/master/Installation.md)
 2. [Getting Started: Syntax] (https://github.com/AdilVirani/LaTeX-Guide/blob/master/Syntax.md)
-3. [Compiling all you've learned] (#compile)
+3. [Compiling all you've learned] (https://github.com/AdilVirani/LaTeX-Guide/blob/master/Compilation.md)
 4. [My Way] (#myway)
 
 Here's an example Résumé:
