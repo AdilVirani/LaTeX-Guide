@@ -102,4 +102,7 @@ $\bullet$ Created Cloudworx website along with other cloud assisting websites.
 $\bullet$ Skills used: HTML, CSS, PHP, Wordpress
 \bigskip
 ```
-***Repeat these last 4 lines for each section you want to add.*** Here's a look at the semi-finished résumé:
+***Repeat these last 4 lines for each section you want to add*** Here's a look at the semi-finished résumé:
+
+![alt text][fin]
+[fin]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/Semi-Finished_Resume.png
