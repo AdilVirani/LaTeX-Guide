@@ -8,3 +8,4 @@ Though LaTeX takes time to learn it is very useful in the professional world and
 
 #Resources
 ***[All Math Symbols] (http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)***
+***[Glossary filled with different commands] (http://en.wikibooks.org/wiki/LaTeX/Command_Glossary)***
