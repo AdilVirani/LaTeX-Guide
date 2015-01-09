@@ -16,3 +16,8 @@ Here's an example Résumé:
 
 ![alt text][resume]
 [resume]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/pictures/resume_picture.png
+
+####Sources and Citations 
+
+* http://en.wikibooks.org/wiki/LaTeX/Page_Layout (This gives a good description of the dimensions we set up and what they each affect individually)
+* http://www.wikihow.com/Write-a-Resume-in-LaTeX (Generated the idea of teaching you guys to write a resume)
