@@ -40,3 +40,8 @@ The "guidebooks" are called packages. TeXLive 2012 comes with all of the package
 \noindent %LaTeX will treat all new text as a paragraph and indent by default
 \line(1,0){470}\\ %Insert a line with direction(1,) with length 470
 ```
+
+Now your header should look a little something like this.
+
+![alt text][header]
+[header]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/Basic_Header.png
