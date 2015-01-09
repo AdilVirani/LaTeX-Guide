@@ -65,3 +65,7 @@ Three years of experience in Software Development for a plethora of technologies
 \bigskip
 ```
 
+Here's a snippet of what your code should look like:
+
+![alt text][snippit]
+[snippit]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/Code_Snippit.png
