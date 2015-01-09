@@ -29,7 +29,7 @@ The "guidebooks" are called packages. TeXLive 2012 comes with all of the package
 %These 2 lines of code tell LaTeX that everything that goes in between these tags is what you want displayed as your actual document
 ```
 
-**In LaTeX you write your document in the same manner that you would in Word, except you have to use commands.** These commands are written in between the '\begin{document}' and '\end{document}'. Now let's make a header! Let's start by inserting the following code (Note: Be sure to read the comments they are very useful to know what each line does):
+**In LaTeX you write your document in the same manner that you would in Word, except you have to use commands.** These commands are written in between the `\begin{document}` and `\end{document}`. Now let's make a header! Let's start by inserting the following code (Note: Be sure to read the comments they are very useful to know what each line does):
 
 ```TeX
 \centerline{ {\LARGE \bf Sample Student}} %Put the text in the center and make it large and bold
@@ -75,4 +75,31 @@ This code should result in the following output:
 ![alt text][body]
 [body]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/Basic_Body.png
 
+***Extra Helpful Commands*** While this may look a little bit silly on the sample resume we created, it serves the purpose of demonstrating how you can make columns in LaTeX. In order to do a list of known programming languages I used the following command: 
 
+```TeX
+\hfill %This command will create even spacing between whatever you put it in between (text and margin, text and text, etc.)
+```
+
+**Here is a sample of `\hfill` using the following code: 
+
+```TeX
+\noindent{\Large \bf Technical Skill}  %Make sure that there is no line skip for as long as you want this effect
+Can Program in a large variety of languages including: \\ %The \\ is the same as a return
+\centerline{\hfill $\bullet$ Java \hfill $\bullet$ JavaScript \hfill $\bullet$ HTML/CSS, \hfill $\bullet$ PHP, \hfill $\bullet$ Python, \hfill $\bullet$ Ruby \hfill}\\
+\centerline{\hfill $\bullet$ Bash \hfill $\bullet$ IDL \hfill}\\
+Proficeint with the following Technologies: \\
+\centerline{\hfill $\bullet$ Node.js \hfill $\bullet$ \LaTeX \hfill $\bullet$ Git \hfill}\\
+
+\noindent{\Large \bf Professional Experience}
+\smallskip
+
+\centerline{ {\large \bf Lead Developer for broadlinkone \hfill 2011-Present} }
+$\bullet$ Fixed front-end and back-end for the company's website, along with other branches of broadlinkone's website.
+
+$\bullet$ Created Cloudworx website along with other cloud assisting websites.
+
+$\bullet$ Skills used: HTML, CSS, PHP, Wordpress
+\bigskip
+```
+***Repeat these last 4 lines for each section you want to add.*** Here's a look at the semi-finished résumé:
