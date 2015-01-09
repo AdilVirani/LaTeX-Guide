@@ -74,3 +74,5 @@ This code should result in the following output:
 
 ![alt text][body]
 [body]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/Basic_Body.png
+
+
