@@ -15,4 +15,4 @@ Learn how to write amazing documents and resumes using \LaTeX (you'll learn what
 Here's an example Résumé:
 
 ![alt text][resume]
-[resume]: https://github.com/AdilVirani/LaTex-Guide/blob/master/resume_picture.png
+[resume]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/pictures/resume_picture.png
