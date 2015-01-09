@@ -21,3 +21,4 @@ Here's an example Résumé:
 
 * http://en.wikibooks.org/wiki/LaTeX/Page_Layout (This gives a good description of the dimensions we set up and what they each affect individually)
 * http://www.wikihow.com/Write-a-Resume-in-LaTeX (Generated the idea of teaching you guys to write a resume)
+* https://github.com/nicholasbloom/latex-guide
