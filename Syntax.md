@@ -105,4 +105,4 @@ $\bullet$ Skills used: HTML, CSS, PHP, Wordpress
 ***Repeat these last 4 lines for each section you want to add*** Here's a look at the semi-finished résumé:
 
 ![alt text][fin]
-[fin]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/Semi-Finished_Resume.png
+[fin]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/pictures/Semi-Finished_Resume.png
