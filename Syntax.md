@@ -44,7 +44,7 @@ The "guidebooks" are called packages. TeXLive 2012 comes with all of the package
 Now your header should look a little something like this.
 
 ![alt text][header]
-[header]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/Basic_Header.png
+[header]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/pictures/Basic_Header.png
 
 **The next part of your resume should be some simple objective and summary type sections.** This can easily be accomplished by making headers and following them with text. Here's some more code that will do that for you:
 
@@ -68,12 +68,12 @@ Three years of experience in Software Development for a plethora of technologies
 Here's a snippet of what your code should look like:
 
 ![alt text][snippit]
-[snippit]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/Code_Snippit.png
+[snippit]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/pictures/Code_Snippit.png
 
 This code should result in the following output:
 
 ![alt text][body]
-[body]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/Basic_Body.png
+[body]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/pictures/Basic_Body.png
 
 ***Extra Helpful Commands*** While this may look a little bit silly on the sample resume we created, it serves the purpose of demonstrating how you can make columns in LaTeX. In order to do a list of known programming languages I used the following command: 
 
@@ -106,3 +106,5 @@ $\bullet$ Skills used: HTML, CSS, PHP, Wordpress
 
 ![alt text][fin]
 [fin]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/pictures/Semi-Finished_Resume.png
+
+***Finishing Up*** Now all you need to do to finish the resume is add in more sections (using the same steps shown above), tweak your dimensions, and it never hurts to have a professional look at it to make sure you did a good job. I hope this is helpful to whoever decides to use it, and I hope it will inspire more people to start learning \LaTeX as it can be a great skill to have. (P.S. Incase you guys didn't notice I've been typing \LaTeX like this because it creates a great design saying LaTeX look at the above picture of the resume to see)
