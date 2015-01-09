@@ -2,7 +2,7 @@
 
 To write in LaTeX code, you have to provide LaTeX with two things: code to describe what you want to do, and a "guidebook" to tell LaTeX how to intepret what you want to do. 
 
-The "guidebooks" are called packages. TeXLive 2012 comes with all of the packages you'll need for this guide.
+The "guidebooks" are called packages. TeXLive 2012 comes with all of the packages you'll need for this guide. Now let me teach you how to make your own résumé. Feel free to customize it however you like.
 
 **Open Tex Works**
 
@@ -19,8 +19,12 @@ The "guidebooks" are called packages. TeXLive 2012 comes with all of the package
     \headsep=0pt %Increase to increase white space in between headers and the top of the page
     \textheight=9.0in %How tall the text body is allowed to be on each page
 
-**The next step is to actually begin your document.** In LaTeX this is done by simply inserting the following code:
+**The next step is to actually begin your document.** In LaTeX this is done by simply inserting the following code after what you just inserted:
 
     \begin{document}
     \end{document}
     %These 2 lines of code tell LaTeX that everything that goes in between these tags is what you want displayed as     your actual document
+
+**In LaTeX you write your document in the same manner that you would in Word, except you have to use commands.** These commands are written in between the '\begin{document}' and '\end{document}'. Now let's make a header! Let's start by inserting the following code (Note: Be sure to read the comments they are very useful to know what each line does):
+
+    \centerline{ {\LARGE \bf Sample Student}} %Put the text in the center and make it large and bold
