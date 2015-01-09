@@ -45,3 +45,23 @@ Now your header should look a little something like this.
 
 ![alt text][header]
 [header]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/Basic_Header.png
+
+**The next part of your resume should be some simple objective and summary type sections.** This can easily be accomplished by making headers and following them with text. Here's some more code that will do that for you:
+
+```TeX
+\noindent {\Large \bf Objective}%dont indent this line and make it bold and only kind of large
+\smallskip
+
+\noindent%This is to make the following text not indented
+To obtain a job or internship in software developement where I could use my experience to create software necessary for the company to develop and prosper
+
+
+\bigskip%This makes a large line skip (\smallskip s also a command but has a smaller gap)
+\noindent{\Large \bf Executive Summary}
+\smallskip
+
+\noindent
+Three years of experience in Software Development for a plethora of technologies. Great group work ethic, presentation skills, and work proficiency. Follow directions well and try my best to write clean code.
+\bigskip
+```
+
