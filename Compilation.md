@@ -1,1 +1,1 @@
-#Let's make a Résumé!
+#LaTeX is good to use :)
