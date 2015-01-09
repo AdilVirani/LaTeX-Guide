@@ -69,3 +69,8 @@ Here's a snippet of what your code should look like:
 
 ![alt text][snippit]
 [snippit]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/Code_Snippit.png
+
+This code should result in the following output:
+
+![alt text][body]
+[body]: https://github.com/AdilVirani/LaTeX-Guide/blob/master/Basic_Body.png
