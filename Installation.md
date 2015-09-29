@@ -51,7 +51,7 @@ Hit enter  - type your password again. *A lot* of files probably showed up in th
 
 Open your text editor of choice. Make sure it's in **plain text** format, and copy/paste this in:
 
-    export PATH=/usr/local/texlive/2012/bin/universal-darwin:$PATH
+    export PATH=/usr/local/texlive/2015/bin/universal-darwin:$PATH
 
 Then, save it in your home folder as '.profile' - **[NB]** *make sure* your save it with the period at the beginning and no extension on the end (you may have to uncheck the box if you're using Text Edit).
 
